@@ -1,0 +1,44 @@
+
+body{
+    background : #263859;
+}
+.box{
+    background: orange;
+    width: 30%;
+    padding-bottom: 15%;
+    padding-top: 15%;
+    border-radius: 15%;
+    margin :1.6%;
+    float: left;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+#heading{
+    padding-left: 32%;
+    padding-right: 25%;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    background: rgb(131, 245, 47); 
+    font-family: 'Pacifico', cursive;
+    
+}
+ 
+#heading h1{
+    font-size: 3rem;
+}
+
+.display{
+    background: #c8dad3;
+    margin-bottom: 3rem;
+    font-family: 'Righteous', cursive;
+}
+
+#texy{
+    color: black;
+    font-family: 'Righteous', cursive;
+    font-weight: 200;
+}
