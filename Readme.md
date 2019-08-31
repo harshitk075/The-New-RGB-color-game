@@ -1,4 +1,4 @@
-The New RGB Color Game 
+****** The New RGB Color Game ****** 
 
 Test your ability to find the correct RGB color combination through this game.
 
